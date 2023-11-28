@@ -25,7 +25,6 @@ export default function App() {
         <Route path="/sign-up" element={<SignUp/>}/>
         <Route path="/library" element={<Library/>}/>
       </Routes>
-      <Footer/>
     </Router>
   )
 }
